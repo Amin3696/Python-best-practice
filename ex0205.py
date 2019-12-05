@@ -12,7 +12,7 @@ if (asw=='Y' or asw=='y'):
         if(answ3=='y' or answ3=='Y'):
             print('yuhooooo!you win!')
         elif(answ3=='N' or 'n'):
-            print('fuck.try again! )
+            print('fuck.try again!' )
 
     elif(answ2=='n' or answ2=='N'):
         guess2=random.randint(6,10)
